@@ -1,0 +1,6 @@
+module Pods_BeGo_BeGoTests {
+  umbrella header "Pods-BeGo-BeGoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

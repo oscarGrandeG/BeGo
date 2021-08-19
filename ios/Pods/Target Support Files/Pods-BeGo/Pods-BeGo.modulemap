@@ -1,0 +1,6 @@
+module Pods_BeGo {
+  umbrella header "Pods-BeGo-umbrella.h"
+
+  export *
+  module * { export * }
+}
